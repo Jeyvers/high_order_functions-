@@ -1,0 +1,21 @@
+Check later: Stagnography
+
+ToDo in Practice
+a. for & forEach to get all company names
+b. Get all ages above or equal to 21 in a different array(for & filter, long and short). 
+Filter(Allows you filter things from the array into a different array )
+c. Get all companies with the category of retail(filter, long & short). 
+d. Get all 80s companies (filter, short)
+e. Get all companies 10 years old or more (filter, short)
+f. Get all company names (map, long & short)
+Map:  Creates new arrays of anything from the current array.
+g. Get all company names with their start and end date(map, long & short).
+h. Get the squareroot of all ages(map, short)
+i. Mulitiply each by two(map, short)
+j. Get the squareroot of all ages and multiply by two(map, twomaps, short)
+k. Sort companies by their start year - earliest to latest (sort, tip: pass two parameters and compare, long and short, tip: use ternary operator for short)
+l. Sort ages from lowest to highest (sort, short)
+m. Get total of all ages (reduce, long & short)
+n. Get total of all company years (reduce, short)
+o. Combine all methods (multiply age by 2, filter ages > 40, sort them, add them. Tip: always remember the total parameter and the 0 for reduce.)
+
